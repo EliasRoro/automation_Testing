@@ -1,4 +1,4 @@
-# TD Quality Automation Framework
+# Quality Automation Framework
 
 A BDD-driven test automation framework built to practice and demonstrate the
 exact skill set called for in TD's **Test Automation / Quality Engineer**
